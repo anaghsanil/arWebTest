@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="web" size="1.000000 0.600000" />
+    <ImageTarget name="qr2" size="1.000000 1.000000" />
+    <ImageTarget name="qr1" size="1.000000 1.000000" />
+    <ImageTarget name="AdobeStock_1672292_Preview" size="1.000000 0.800000" />
+  </Tracking>
+</QCARConfig>
